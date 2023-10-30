@@ -1,0 +1,10 @@
+body {
+  background-image: url(./pattern-background-desktop.svg);
+  background-position-y: -110px;
+}
+.container {
+  width: 350px;
+}
+.img {
+  width: 350px;
+}
